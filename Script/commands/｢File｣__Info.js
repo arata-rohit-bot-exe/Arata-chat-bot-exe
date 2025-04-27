@@ -1,1 +1,43 @@
-const _0x3b0b2c=_0x2311;function _0x1067(){const _0x418a02=['𝐝𝐞𝐬𝐡\x0a┣━━━━','Asia/Dhaka','unlinkSync','\x20\x20🌟\x20𝗢𝗪𝗡𝗘𝗥\x20','format','\x0a┏━━━━━━━━','158568TeUKmD','?id=100000','ullash','haon)\x0a┃\x20🌐\x20','GLhwd','7792260LnLaaN','aph.facebo','🕌\x20𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧','DD/MM/YYYY','788363njwObh','run','/cache/1.p','\x20\x20:\x20𝐈𝐧\x20𝐂𝐨𝐦','\x20[𝐂𝐥𝐢𝐜𝐤\x20𝐇𝐞','18xmxFAw','68379%7Cc1','┃\x20🏫\x20𝐄𝐝𝐮𝐜𝐚𝐭','━━━━━━━━━━','❤️\x20𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧','0&width=72','\x20𝐍𝐚𝐦𝐞\x20\x20\x20\x20\x20','𝐨𝐦𝐚\x20𝐢𝐧\x20𝐀𝐠𝐫','NvTCQ','\x20\x20:\x20𝐈𝐬𝐥𝐚𝐦\x0a','https://gr','createWrit','𝐢𝐨𝐧\x20:\x20𝐝𝐢𝐩𝐥','/mahbubu_s','1c1bde5662','request','createRead','━━━┫\x0a┃\x20🕒\x20𝐔','0&access_t','𝐥𝐢,\x20𝐁𝐚𝐧𝐠𝐥𝐚','521744vfrIqX','91cRZRLQ','━━━┓\x0a┃\x20\x20\x20\x20','Stream','━━━━━┫\x0a┃\x20👤','\x20\x20\x0a┣━━━━━━','?height=72','MebvY','\x20\x20\x20','tps://t.me','\x20Info','\x20:\x20𝐮\x20𝐥\x20𝐥\x20𝐚','\x20:\x20ullash0','fs-extra','𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝\x0a┃','𝐩𝐝𝐚𝐭𝐞𝐝\x20𝐓𝐢𝐦','654976375)','sendMessag','XbIoY','admin','𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤\x20:','\x20hh:mm:ss\x20','\x0a┣━━━━━━━━','oken=66285','𝐢𝐧\x20𝐍𝐨𝐰](ht','qbXdU','\x20𝐬\x20𝐡\x20ッ\x0a┃\x20🚹','book.com/p','894RxeLGb','\x20🏡\x20𝐀𝐝𝐝𝐫𝐞𝐬𝐬','ezone','4700lfNwVi','━━━┛\x0a\x20\x20\x20\x20\x20','𝐢𝐜𝐮𝐥𝐭𝐮𝐫𝐞\x0a┃','1\x0a┃\x20📢\x20𝐓𝐞𝐥𝐞','exports','axios','pipe','\x20𝐆𝐞𝐧𝐝𝐞𝐫\x20\x20\x20','\x20🎂\x20𝐀𝐠𝐞\x20\x20\x20\x20','moment-tim','e620fa708a','1.0.0','config','𝐠𝐫𝐚𝐦\x20:\x20[𝐉𝐨','\x20:\x20𝐌𝐚𝐥𝐞\x0a┃\x20','threadID','\x20\x20:\x20𝐍𝐨𝐚𝐤𝐡𝐚','ok.com/100','578369OSmapv','\x20\x20\x20:\x2021\x0a┃\x20','8GLETGI','1d5696fb99','UCMIj','0006549763','\x0a┗━━━━━━━━','𝐫𝐞](https:','close','info','eStream','WJWwn','Show\x20Owner','\x20🎭\x20𝐓𝐢𝐤𝐭𝐨𝐤\x20','𝐞:\x20','YWerg','𝗜𝗡𝗙𝗢\x20🌟\x20\x20\x20\x20','━━━━━━━┫\x0a┃','rofile.php','432VQuqak','//www.face','75/picture','165730XbPXSS'];_0x1067=function(){return _0x418a02;};return _0x1067();}(function(_0x32f76f,_0x202cbe){const _0x27aa7a=_0x2311,_0x36afff=_0x32f76f();while(!![]){try{const _0x5770c2=parseInt(_0x27aa7a(0xf8))/(0x5ab*0x3+-0x1472+0x372)+-parseInt(_0x27aa7a(0x130))/(-0x1deb+-0x923*0x1+0x2710)*(-parseInt(_0x27aa7a(0x12d))/(0x12fd*-0x1+0x1*-0x244d+0x374d))+-parseInt(_0x27aa7a(0xd4))/(-0x11*-0x89+-0xa0f+0xfa)*(parseInt(_0x27aa7a(0xe8))/(-0xb47*0x2+-0x36e*-0x4+0x8db))+parseInt(_0x27aa7a(0xef))/(-0x1*0x26ed+0xdf3+-0x1900*-0x1)*(parseInt(_0x27aa7a(0x112))/(-0x1e24+-0x1*0x1087+0x2eb2))+parseInt(_0x27aa7a(0x111))/(-0x8b4+-0x2145+0x2a01)*(parseInt(_0x27aa7a(0xfd))/(0x1c1f*-0x1+0xd8c+0x16*0xaa))+parseInt(_0x27aa7a(0xf4))/(0x3f*-0x1+-0x1*-0x16eb+-0x16a2)+parseInt(_0x27aa7a(0xd2))/(0x1421*0x1+-0x184a*-0x1+-0x2c60)*(-parseInt(_0x27aa7a(0xe5))/(0x41*-0x6a+0x1de6+-0x2f0));if(_0x5770c2===_0x202cbe)break;else _0x36afff['push'](_0x36afff['shift']());}catch(_0x452ea2){_0x36afff['push'](_0x36afff['shift']());}}}(_0x1067,0x2c45f*0x7+-0xee3cc+0x776d4));function _0x2311(_0x547b63,_0x1db57d){const _0xf349ea=_0x1067();return _0x2311=function(_0x3b8da5,_0x67adcc){_0x3b8da5=_0x3b8da5-(-0x2094+-0x609+0x276b);let _0x6f651=_0xf349ea[_0x3b8da5];return _0x6f651;},_0x2311(_0x547b63,_0x1db57d);}const axios=require(_0x3b0b2c(0x135)),request=require(_0x3b0b2c(0x10c)),fs=require(_0x3b0b2c(0x11e)),moment=require(_0x3b0b2c(0x139)+_0x3b0b2c(0x12f));module[_0x3b0b2c(0x134)][_0x3b0b2c(0x13c)]={'name':_0x3b0b2c(0x124),'version':_0x3b0b2c(0x13b),'hasPermssion':0x0,'credits':_0x3b0b2c(0xf1),'description':_0x3b0b2c(0xde)+_0x3b0b2c(0x11b),'commandCategory':_0x3b0b2c(0xdb),'usages':'','cooldowns':0x5},module[_0x3b0b2c(0x134)][_0x3b0b2c(0xf9)]=async function({api:_0x5b60f5,event:_0x1c0a73}){const _0x2f103b=_0x3b0b2c,_0x519725={'YWerg':function(_0x2750f4){return _0x2750f4();},'UCMIj':_0x2f103b(0xea),'MebvY':_0x2f103b(0xf7)+_0x2f103b(0x126)+'A','XbIoY':function(_0x1039e3,_0x3a4b67){return _0x1039e3(_0x3a4b67);},'WJWwn':function(_0x564a4a,_0x1059a7){return _0x564a4a(_0x1059a7);},'GLhwd':function(_0x4b4f0d,_0x50ab6b){return _0x4b4f0d+_0x50ab6b;},'qbXdU':_0x2f103b(0xfa)+'ng','NvTCQ':_0x2f103b(0xda)};var _0x30be8f=_0x519725[_0x2f103b(0xe1)](moment)['tz'](_0x519725[_0x2f103b(0xd6)])[_0x2f103b(0xed)](_0x519725[_0x2f103b(0x118)]),_0xe7511e=()=>_0x5b60f5[_0x2f103b(0x122)+'e']({'body':_0x2f103b(0xee)+_0x2f103b(0x100)+_0x2f103b(0x113)+_0x2f103b(0xec)+_0x2f103b(0xe2)+_0x2f103b(0x116)+_0x2f103b(0x100)+_0x2f103b(0x115)+_0x2f103b(0x103)+_0x2f103b(0x11c)+_0x2f103b(0x12b)+_0x2f103b(0x137)+_0x2f103b(0xce)+_0x2f103b(0x101)+_0x2f103b(0xfb)+_0x2f103b(0x11f)+_0x2f103b(0x138)+_0x2f103b(0xd3)+_0x2f103b(0xf6)+_0x2f103b(0x106)+_0x2f103b(0xff)+_0x2f103b(0x109)+_0x2f103b(0x104)+_0x2f103b(0x132)+_0x2f103b(0x12e)+_0x2f103b(0xd0)+_0x2f103b(0x110)+_0x2f103b(0xe9)+_0x2f103b(0x100)+_0x2f103b(0xe3)+_0x2f103b(0xdf)+_0x2f103b(0x11d)+_0x2f103b(0x133)+_0x2f103b(0x13d)+_0x2f103b(0x129)+_0x2f103b(0x11a)+_0x2f103b(0x10a)+_0x2f103b(0xf2)+_0x2f103b(0x125)+_0x2f103b(0xfc)+_0x2f103b(0xd9)+_0x2f103b(0xe6)+_0x2f103b(0x12c)+_0x2f103b(0xe4)+_0x2f103b(0xf0)+_0x2f103b(0x121)+_0x2f103b(0x127)+_0x2f103b(0x100)+_0x2f103b(0x10e)+_0x2f103b(0x120)+_0x2f103b(0xe0)+_0x30be8f+(_0x2f103b(0xd8)+_0x2f103b(0x100)+_0x2f103b(0x131)+_0x2f103b(0x119)),'attachment':fs[_0x2f103b(0x10d)+_0x2f103b(0x114)](__dirname+(_0x2f103b(0xfa)+'ng'))},_0x1c0a73[_0x2f103b(0xcf)],()=>fs[_0x2f103b(0xeb)](__dirname+(_0x2f103b(0xfa)+'ng')));return _0x519725[_0x2f103b(0x123)](request,_0x519725[_0x2f103b(0xdd)](encodeURI,_0x2f103b(0x107)+_0x2f103b(0xf5)+_0x2f103b(0xd1)+_0x2f103b(0xd7)+_0x2f103b(0xe7)+_0x2f103b(0x117)+_0x2f103b(0x102)+_0x2f103b(0x10f)+_0x2f103b(0x128)+_0x2f103b(0xfe)+_0x2f103b(0x13a)+_0x2f103b(0xd5)+_0x2f103b(0x10b)))[_0x2f103b(0x136)](fs[_0x2f103b(0x108)+_0x2f103b(0xdc)](_0x519725[_0x2f103b(0xf3)](__dirname,_0x519725[_0x2f103b(0x12a)])))['on'](_0x519725[_0x2f103b(0x105)],()=>_0xe7511e());};
+module.exports.config = {
+    name: "info",
+    version: "1.0.0",
+    permission: 0,
+    credits: "Mirai",
+    prefix: true,
+    description: "",
+    category: "prefix",
+    usages: "",
+    cooldowns: 5,
+    dependencies: 
+	{
+    "request":"",
+    "fs-extra":"",
+    "axios":""
+  }
+};
+module.exports.run = async function({ api,event,args,client,Users,Threads,__GLOBAL,Currencies }) {
+const axios = global.nodemodule["axios"];
+const request = global.nodemodule["request"];
+const fs = global.nodemodule["fs-extra"];
+const time = process.uptime(),
+		hours = Math.floor(time / (60 * 60)),
+		minutes = Math.floor((time % (60 * 60)) / 60),
+		seconds = Math.floor(time % 60);
+const moment = require("moment-timezone");
+var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
+  
+var callback = () => api.sendMessage({body:`
+--------------------------------------------
+𝐍𝐚𝐦𝐞       : 𝐀𝐫𝐚𝐭𝐚 𝐤𝐚𝐢𝐳𝐚𝐤𝐢
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : 𝐀𝐫𝐚𝐭𝐚 𝐤𝐚𝐢𝐳𝐚𝐤𝐢
+𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧   : 𝐈𝐬𝐥𝐚𝐦
+𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: 𝐅𝐚𝐫𝐢𝐝𝐩𝐮𝐫
+𝐆𝐞𝐧𝐝𝐞𝐫.   : 𝐌𝐚𝐥𝐞
+𝐀𝐠𝐞           : 𝟏𝟖+
+𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : 𝐒𝐢𝐧𝐠𝐥𝐞
+𝐖𝐨𝐫𝐤        : 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐋𝐢𝐧𝐤 : https://www.facebook.com/rohit.Hossain.yt`,attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => 
+    fs.unlinkSync(__dirname + "/cache/1.png"));  
+      return request(encodeURI(`https://graph.facebook.com/100020516392760/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`)).pipe(
+fs.createWriteStream(__dirname+'/cache/1.png')).on('close',() => callback());
+   };
