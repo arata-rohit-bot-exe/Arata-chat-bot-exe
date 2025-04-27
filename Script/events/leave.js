@@ -40,7 +40,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
 
   if (existsSync(path)) mkdirSync(path, { recursive: true });
 
-(typeof data.customLeave == "undefined") ? msg = " {name}     {type} {name} -!! {session} || {time}" : msg = data.customLeave;
+(typeof data.customLeave == "undefined") ? msg = "•—»✨ {name} ✨«—•\n ╭•┄┅═══❁🌺❁═══┅┄•╮ \n         ｢ 𝗔𝗟𝗟𝗔𝗛𝗔𝗙𝗘𝗭 ｣     \n ╰•┄┅═══❁🌺❁═══┅┄•╯ \n  •—»✨       {type}  ✨«—•\n\n•—»«—•  \n\n•—»✨ {name} ✨«—•-!! {session} || {time}" : msg = data.customLeave;
   msg = msg.replace(/\{name}/g, name).replace(/\{type}/g, type).replace(/\{session}/g, hours <= 10 ? "leave time" : 
     hours > 10 && hours <= 12 ? "__" :
     hours > 12 && hours <= 18 ? "__" : "__").replace(/\{time}/g, time);  
@@ -55,4 +55,4 @@ module.exports.run = async function({ api, event, Users, Threads }) {
   else formPush = { body: msg }
 
   return api.sendMessage(formPush, threadID);
-                            }
+}
