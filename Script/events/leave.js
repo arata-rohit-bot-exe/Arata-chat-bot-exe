@@ -34,13 +34,13 @@ module.exports.run = async function({ api, event, Users, Threads }) {
   const data = global.data.threadData.get(parseInt(threadID)) || (await Threads.getData(threadID)).data;
   const name = global.data.userName.get(event.logMessageData.leftParticipantFbId) || await Users.getNameUser(event.logMessageData.leftParticipantFbId);
   const type = (event.author == event.logMessageData.leftParticipantFbId) ? "leave" : "managed";
-  const path = join(__dirname, "events", "123.mp4");
-  const pathGif = join(path, `${threadID}123.mp4`);
+  const path = join(__dirname, "events", "");
+  const pathGif = join(path, `${threadID}`);
   var msg, formPush
 
   if (existsSync(path)) mkdirSync(path, { recursive: true });
 
-(typeof data.customLeave == "undefined") ? msg = "•—»✨ {name} ✨«—•\n ╭•┄┅═══❁🌺❁═══┅┄•╮ \n         ｢ 𝗔𝗟𝗟𝗔𝗛𝗔𝗙𝗘𝗭 ｣     \n ╰•┄┅═══❁🌺❁═══┅┄•╯ \n  •—»✨       {type}  ✨«—•\n\n•—»«—•  \n\n•—»✨ {name} ✨«—•-!! {session} || {time}" : msg = data.customLeave;
+(typeof data.customLeave == "undefined") ? msg = "" : msg = data.customLeave;
   msg = msg.replace(/\{name}/g, name).replace(/\{type}/g, type).replace(/\{session}/g, hours <= 10 ? "leave time" : 
     hours > 10 && hours <= 12 ? "__" :
     hours > 12 && hours <= 18 ? "__" : "__").replace(/\{time}/g, time);  
